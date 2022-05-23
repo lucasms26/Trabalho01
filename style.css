@@ -1,0 +1,16 @@
+body { 
+    font-size: 20px;
+}
+.texto-principal{
+    color: rgb(0, 255, 0);
+}
+.texto-me{
+    color: rgb(0, 17, 255);
+    font-size: 40px;
+}
+
+.texto-ma{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+}
+/* font-size ultilizado para definir o tamanho da font, color para definir a cor,*/ 
